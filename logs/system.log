@@ -1,0 +1,202 @@
+[2023-01-18 09:45:00,228] [INFO] [DESKTOP-VFLN9LM][conftest.py - line:35] 测试开始！
+[2023-01-18 09:45:00,229] [INFO] [DESKTOP-VFLN9LM][driver.py - line:30] UPK9X20C23001241
+[2023-01-18 09:45:01,849] [INFO] [DESKTOP-VFLN9LM][driver.py - line:35] 连接设备：UPK9X20C23001241
+[2023-01-18 09:45:01,850] [INFO] [DESKTOP-VFLN9LM][conftest.py - line:37] 进入测试APP！
+[2023-01-18 09:45:05,213] [INFO] [DESKTOP-VFLN9LM][test_install.py - line:26] 初始化
+[2023-01-18 09:45:08,223] [INFO] [DESKTOP-VFLN9LM][base.py - line:44] 通过 resourceId 查找元素:【com.sceneray.dbs:id/tvForgetPassword】
+[2023-01-18 09:45:08,297] [INFO] [DESKTOP-VFLN9LM][base.py - line:64] 元素已找到
+[2023-01-18 09:45:08,698] [INFO] [DESKTOP-VFLN9LM][base.py - line:104] 点击元素:[com.sceneray.dbs:id/tvForgetPassword]
+[2023-01-18 09:45:11,708] [INFO] [DESKTOP-VFLN9LM][base.py - line:44] 通过 resourceId 查找元素:【com.sceneray.dbs:id/img_close】
+[2023-01-18 09:45:11,750] [INFO] [DESKTOP-VFLN9LM][base.py - line:64] 元素已找到
+[2023-01-18 09:45:12,164] [INFO] [DESKTOP-VFLN9LM][base.py - line:104] 点击元素:[com.sceneray.dbs:id/img_close]
+[2023-01-18 09:45:12,165] [INFO] [DESKTOP-VFLN9LM][base.py - line:68] 找到【[com.sceneray.dbs:id/et_pwd】 查找元素并输入【sr@123456】
+[2023-01-18 09:45:15,181] [INFO] [DESKTOP-VFLN9LM][base.py - line:44] 通过 resourceId 查找元素:【com.sceneray.dbs:id/et_pwd】
+[2023-01-18 09:45:15,219] [INFO] [DESKTOP-VFLN9LM][base.py - line:64] 元素已找到
+[2023-01-18 09:45:18,432] [INFO] [DESKTOP-VFLN9LM][base.py - line:44] 通过 resourceId 查找元素:【com.android.systemui:id/back】
+[2023-01-18 09:45:18,477] [INFO] [DESKTOP-VFLN9LM][base.py - line:92] 元素[com.android.systemui:id/back]未找到
+[2023-01-18 09:45:21,486] [INFO] [DESKTOP-VFLN9LM][base.py - line:44] 通过 resourceId 查找元素:【com.huawei.secime:id/keyboard_hide_btn】
+[2023-01-18 09:45:21,537] [INFO] [DESKTOP-VFLN9LM][base.py - line:64] 元素已找到
+[2023-01-18 09:45:21,969] [INFO] [DESKTOP-VFLN9LM][base.py - line:104] 点击元素:[com.huawei.secime:id/keyboard_hide_btn]
+[2023-01-18 09:45:24,984] [INFO] [DESKTOP-VFLN9LM][base.py - line:44] 通过 resourceId 查找元素:【com.sceneray.dbs:id/btn_login】
+[2023-01-18 09:45:25,028] [INFO] [DESKTOP-VFLN9LM][base.py - line:64] 元素已找到
+[2023-01-18 09:45:25,417] [INFO] [DESKTOP-VFLN9LM][base.py - line:104] 点击元素:[com.sceneray.dbs:id/btn_login]
+[2023-01-18 09:45:28,420] [INFO] [DESKTOP-VFLN9LM][base.py - line:44] 通过 resourceId 查找元素:【com.sceneray.dbs:id/img_close】
+[2023-01-18 09:45:28,462] [INFO] [DESKTOP-VFLN9LM][base.py - line:64] 元素已找到
+[2023-01-18 09:45:28,861] [INFO] [DESKTOP-VFLN9LM][base.py - line:104] 点击元素:[com.sceneray.dbs:id/img_close]
+[2023-01-18 09:45:29,532] [INFO] [DESKTOP-VFLN9LM][base.py - line:358] 卸载成功[Success
+]
+[2023-01-18 09:45:29,638] [INFO] [DESKTOP-VFLN9LM][test_install.py - line:50] PASS		APK卸载成功！
+[2023-01-18 09:45:29,640] [INFO] [DESKTOP-VFLN9LM][test_install.py - line:29] 结束初始化
+[2023-01-18 09:45:29,643] [INFO] [DESKTOP-VFLN9LM][conftest.py - line:44] 测试结束，退出测试APP！
+[2023-01-18 09:45:29,758] [INFO] [DESKTOP-VFLN9LM][conftest.py - line:35] 测试开始！
+[2023-01-18 09:45:29,758] [INFO] [DESKTOP-VFLN9LM][driver.py - line:30] UPK9X20C23001241
+[2023-01-18 09:45:31,369] [INFO] [DESKTOP-VFLN9LM][driver.py - line:35] 连接设备：UPK9X20C23001241
+[2023-01-18 09:45:31,369] [INFO] [DESKTOP-VFLN9LM][conftest.py - line:37] 进入测试APP！
+[2023-01-18 09:45:34,802] [INFO] [DESKTOP-VFLN9LM][test_install.py - line:26] 初始化
+[2023-01-18 09:45:36,420] [INFO] [DESKTOP-VFLN9LM][base.py - line:348] 安装成功[Success
+]
+[2023-01-18 09:45:36,535] [INFO] [DESKTOP-VFLN9LM][test_install.py - line:59] PASS		APK安装成功！
+[2023-01-18 09:45:36,537] [INFO] [DESKTOP-VFLN9LM][test_install.py - line:29] 结束初始化
+[2023-01-18 09:45:36,539] [INFO] [DESKTOP-VFLN9LM][conftest.py - line:44] 测试结束，退出测试APP！
+[2023-01-18 09:45:36,661] [INFO] [DESKTOP-VFLN9LM][conftest.py - line:35] 测试开始！
+[2023-01-18 09:45:36,661] [INFO] [DESKTOP-VFLN9LM][driver.py - line:30] UPK9X20C23001241
+[2023-01-18 09:45:38,253] [INFO] [DESKTOP-VFLN9LM][driver.py - line:35] 连接设备：UPK9X20C23001241
+[2023-01-18 09:45:38,253] [INFO] [DESKTOP-VFLN9LM][conftest.py - line:37] 进入测试APP！
+[2023-01-18 09:45:41,601] [INFO] [DESKTOP-VFLN9LM][test_install.py - line:26] 初始化
+[2023-01-18 09:45:41,603] [INFO] [DESKTOP-VFLN9LM][base.py - line:68] 找到【[com.sceneray.dbs:id/auth_edit】 查找元素并输入【A89DCB45】
+[2023-01-18 09:45:44,617] [INFO] [DESKTOP-VFLN9LM][base.py - line:44] 通过 resourceId 查找元素:【com.sceneray.dbs:id/auth_edit】
+[2023-01-18 09:45:44,673] [INFO] [DESKTOP-VFLN9LM][base.py - line:64] 元素已找到
+[2023-01-18 09:45:47,947] [INFO] [DESKTOP-VFLN9LM][base.py - line:44] 通过 resourceId 查找元素:【com.android.systemui:id/back】
+[2023-01-18 09:45:47,993] [INFO] [DESKTOP-VFLN9LM][base.py - line:94] 元素已找到
+[2023-01-18 09:45:51,084] [INFO] [DESKTOP-VFLN9LM][base.py - line:44] 通过 resourceId 查找元素:【com.android.systemui:id/back】
+[2023-01-18 09:45:51,128] [INFO] [DESKTOP-VFLN9LM][base.py - line:64] 元素已找到
+[2023-01-18 09:45:51,541] [INFO] [DESKTOP-VFLN9LM][base.py - line:104] 点击元素:[com.android.systemui:id/back]
+[2023-01-18 09:45:54,552] [INFO] [DESKTOP-VFLN9LM][base.py - line:44] 通过 resourceId 查找元素:【com.sceneray.dbs:id/btn_no】
+[2023-01-18 09:45:54,634] [INFO] [DESKTOP-VFLN9LM][base.py - line:64] 元素已找到
+[2023-01-18 09:45:55,036] [INFO] [DESKTOP-VFLN9LM][base.py - line:104] 点击元素:[com.sceneray.dbs:id/btn_no]
+[2023-01-18 09:45:55,512] [INFO] [DESKTOP-VFLN9LM][test_install.py - line:72] PASS		取消验证成功，退出测试APP！
+[2023-01-18 09:45:55,514] [INFO] [DESKTOP-VFLN9LM][test_install.py - line:29] 结束初始化
+[2023-01-18 09:45:55,515] [INFO] [DESKTOP-VFLN9LM][conftest.py - line:44] 测试结束，退出测试APP！
+[2023-01-18 09:45:55,820] [INFO] [DESKTOP-VFLN9LM][conftest.py - line:35] 测试开始！
+[2023-01-18 09:45:55,821] [INFO] [DESKTOP-VFLN9LM][driver.py - line:30] UPK9X20C23001241
+[2023-01-18 09:45:57,368] [INFO] [DESKTOP-VFLN9LM][driver.py - line:35] 连接设备：UPK9X20C23001241
+[2023-01-18 09:45:57,368] [INFO] [DESKTOP-VFLN9LM][conftest.py - line:37] 进入测试APP！
+[2023-01-18 09:46:00,700] [INFO] [DESKTOP-VFLN9LM][test_install.py - line:26] 初始化
+[2023-01-18 09:46:00,701] [INFO] [DESKTOP-VFLN9LM][base.py - line:68] 找到【[com.sceneray.dbs:id/auth_edit】 查找元素并输入【A89DCB45】
+[2023-01-18 09:46:03,703] [INFO] [DESKTOP-VFLN9LM][base.py - line:44] 通过 resourceId 查找元素:【com.sceneray.dbs:id/auth_edit】
+[2023-01-18 09:46:03,748] [INFO] [DESKTOP-VFLN9LM][base.py - line:64] 元素已找到
+[2023-01-18 09:46:07,000] [INFO] [DESKTOP-VFLN9LM][base.py - line:44] 通过 resourceId 查找元素:【com.android.systemui:id/back】
+[2023-01-18 09:46:07,049] [INFO] [DESKTOP-VFLN9LM][base.py - line:94] 元素已找到
+[2023-01-18 09:46:10,152] [INFO] [DESKTOP-VFLN9LM][base.py - line:44] 通过 resourceId 查找元素:【com.android.systemui:id/back】
+[2023-01-18 09:46:10,203] [INFO] [DESKTOP-VFLN9LM][base.py - line:64] 元素已找到
+[2023-01-18 09:46:10,625] [INFO] [DESKTOP-VFLN9LM][base.py - line:104] 点击元素:[com.android.systemui:id/back]
+[2023-01-18 09:46:13,632] [INFO] [DESKTOP-VFLN9LM][base.py - line:44] 通过 resourceId 查找元素:【com.sceneray.dbs:id/btn_yes】
+[2023-01-18 09:46:13,678] [INFO] [DESKTOP-VFLN9LM][base.py - line:64] 元素已找到
+[2023-01-18 09:46:14,087] [INFO] [DESKTOP-VFLN9LM][base.py - line:104] 点击元素:[com.sceneray.dbs:id/btn_yes]
+[2023-01-18 09:46:17,097] [INFO] [DESKTOP-VFLN9LM][base.py - line:52] 通过 text 查找元素:【用户登录】
+[2023-01-18 09:46:17,131] [INFO] [DESKTOP-VFLN9LM][base.py - line:94] 元素已找到
+[2023-01-18 09:46:17,198] [INFO] [DESKTOP-VFLN9LM][test_install.py - line:85] PASS		验证成功，进入用户登录界面！
+[2023-01-18 09:46:17,200] [INFO] [DESKTOP-VFLN9LM][test_install.py - line:29] 结束初始化
+[2023-01-18 09:46:17,203] [INFO] [DESKTOP-VFLN9LM][conftest.py - line:44] 测试结束，退出测试APP！
+[2023-01-18 09:46:17,491] [INFO] [DESKTOP-VFLN9LM][conftest.py - line:35] 测试开始！
+[2023-01-18 09:46:17,491] [INFO] [DESKTOP-VFLN9LM][driver.py - line:30] UPK9X20C23001241
+[2023-01-18 09:46:19,128] [INFO] [DESKTOP-VFLN9LM][driver.py - line:35] 连接设备：UPK9X20C23001241
+[2023-01-18 09:46:19,128] [INFO] [DESKTOP-VFLN9LM][conftest.py - line:37] 进入测试APP！
+[2023-01-18 09:46:22,462] [INFO] [DESKTOP-VFLN9LM][test_install.py - line:26] 初始化
+[2023-01-18 09:46:22,464] [INFO] [DESKTOP-VFLN9LM][base.py - line:68] 找到【[com.sceneray.dbs:id/et_pwd】 查找元素并输入【123456】
+[2023-01-18 09:46:25,479] [INFO] [DESKTOP-VFLN9LM][base.py - line:44] 通过 resourceId 查找元素:【com.sceneray.dbs:id/et_pwd】
+[2023-01-18 09:46:25,516] [INFO] [DESKTOP-VFLN9LM][base.py - line:64] 元素已找到
+[2023-01-18 09:46:28,748] [INFO] [DESKTOP-VFLN9LM][base.py - line:44] 通过 resourceId 查找元素:【com.android.systemui:id/back】
+[2023-01-18 09:46:28,825] [INFO] [DESKTOP-VFLN9LM][base.py - line:92] 元素[com.android.systemui:id/back]未找到
+[2023-01-18 09:46:31,832] [INFO] [DESKTOP-VFLN9LM][base.py - line:44] 通过 resourceId 查找元素:【com.huawei.secime:id/keyboard_hide_btn】
+[2023-01-18 09:46:31,879] [INFO] [DESKTOP-VFLN9LM][base.py - line:64] 元素已找到
+[2023-01-18 09:46:32,306] [INFO] [DESKTOP-VFLN9LM][base.py - line:104] 点击元素:[com.huawei.secime:id/keyboard_hide_btn]
+[2023-01-18 09:46:35,320] [INFO] [DESKTOP-VFLN9LM][base.py - line:44] 通过 resourceId 查找元素:【com.sceneray.dbs:id/btn_login】
+[2023-01-18 09:46:35,365] [INFO] [DESKTOP-VFLN9LM][base.py - line:64] 元素已找到
+[2023-01-18 09:46:35,763] [INFO] [DESKTOP-VFLN9LM][base.py - line:104] 点击元素:[com.sceneray.dbs:id/btn_login]
+[2023-01-18 09:46:35,902] [INFO] [DESKTOP-VFLN9LM][test_install.py - line:98] PASS		验证成功，进入修改密码界面！
+[2023-01-18 09:46:35,904] [INFO] [DESKTOP-VFLN9LM][test_install.py - line:29] 结束初始化
+[2023-01-18 09:46:35,906] [INFO] [DESKTOP-VFLN9LM][conftest.py - line:44] 测试结束，退出测试APP！
+[2023-01-18 09:46:36,131] [INFO] [DESKTOP-VFLN9LM][conftest.py - line:35] 测试开始！
+[2023-01-18 09:46:36,131] [INFO] [DESKTOP-VFLN9LM][driver.py - line:30] UPK9X20C23001241
+[2023-01-18 09:46:37,769] [INFO] [DESKTOP-VFLN9LM][driver.py - line:35] 连接设备：UPK9X20C23001241
+[2023-01-18 09:46:37,770] [INFO] [DESKTOP-VFLN9LM][conftest.py - line:37] 进入测试APP！
+[2023-01-18 09:46:41,151] [INFO] [DESKTOP-VFLN9LM][test_install.py - line:26] 初始化
+[2023-01-18 09:46:41,154] [INFO] [DESKTOP-VFLN9LM][base.py - line:68] 找到【[com.sceneray.dbs:id/et_pwd】 查找元素并输入【123456】
+[2023-01-18 09:46:44,163] [INFO] [DESKTOP-VFLN9LM][base.py - line:44] 通过 resourceId 查找元素:【com.sceneray.dbs:id/et_pwd】
+[2023-01-18 09:46:44,235] [INFO] [DESKTOP-VFLN9LM][base.py - line:64] 元素已找到
+[2023-01-18 09:46:47,465] [INFO] [DESKTOP-VFLN9LM][base.py - line:44] 通过 resourceId 查找元素:【com.android.systemui:id/back】
+[2023-01-18 09:46:47,513] [INFO] [DESKTOP-VFLN9LM][base.py - line:92] 元素[com.android.systemui:id/back]未找到
+[2023-01-18 09:46:50,527] [INFO] [DESKTOP-VFLN9LM][base.py - line:44] 通过 resourceId 查找元素:【com.huawei.secime:id/keyboard_hide_btn】
+[2023-01-18 09:46:50,573] [INFO] [DESKTOP-VFLN9LM][base.py - line:64] 元素已找到
+[2023-01-18 09:46:51,010] [INFO] [DESKTOP-VFLN9LM][base.py - line:104] 点击元素:[com.huawei.secime:id/keyboard_hide_btn]
+[2023-01-18 09:46:54,022] [INFO] [DESKTOP-VFLN9LM][base.py - line:44] 通过 resourceId 查找元素:【com.sceneray.dbs:id/btn_login】
+[2023-01-18 09:46:54,065] [INFO] [DESKTOP-VFLN9LM][base.py - line:64] 元素已找到
+[2023-01-18 09:46:54,466] [INFO] [DESKTOP-VFLN9LM][base.py - line:104] 点击元素:[com.sceneray.dbs:id/btn_login]
+[2023-01-18 09:46:54,467] [INFO] [DESKTOP-VFLN9LM][base.py - line:68] 找到【[com.sceneray.dbs:id/etPassword】 查找元素并输入【sr@123456】
+[2023-01-18 09:46:57,473] [INFO] [DESKTOP-VFLN9LM][base.py - line:44] 通过 resourceId 查找元素:【com.sceneray.dbs:id/etPassword】
+[2023-01-18 09:46:57,516] [INFO] [DESKTOP-VFLN9LM][base.py - line:64] 元素已找到
+[2023-01-18 09:46:57,742] [INFO] [DESKTOP-VFLN9LM][base.py - line:68] 找到【[com.sceneray.dbs:id/etConfirmPassword】 查找元素并输入【sr@123456】
+[2023-01-18 09:47:00,756] [INFO] [DESKTOP-VFLN9LM][base.py - line:44] 通过 resourceId 查找元素:【com.sceneray.dbs:id/etConfirmPassword】
+[2023-01-18 09:47:00,797] [INFO] [DESKTOP-VFLN9LM][base.py - line:64] 元素已找到
+[2023-01-18 09:47:04,021] [INFO] [DESKTOP-VFLN9LM][base.py - line:44] 通过 resourceId 查找元素:【com.android.systemui:id/back】
+[2023-01-18 09:47:04,072] [INFO] [DESKTOP-VFLN9LM][base.py - line:94] 元素已找到
+[2023-01-18 09:47:07,169] [INFO] [DESKTOP-VFLN9LM][base.py - line:44] 通过 resourceId 查找元素:【com.android.systemui:id/back】
+[2023-01-18 09:47:07,225] [INFO] [DESKTOP-VFLN9LM][base.py - line:64] 元素已找到
+[2023-01-18 09:47:07,642] [INFO] [DESKTOP-VFLN9LM][base.py - line:104] 点击元素:[com.android.systemui:id/back]
+[2023-01-18 09:47:10,651] [INFO] [DESKTOP-VFLN9LM][base.py - line:44] 通过 resourceId 查找元素:【com.sceneray.dbs:id/tvOk】
+[2023-01-18 09:47:10,699] [INFO] [DESKTOP-VFLN9LM][base.py - line:64] 元素已找到
+[2023-01-18 09:47:11,118] [INFO] [DESKTOP-VFLN9LM][base.py - line:104] 点击元素:[com.sceneray.dbs:id/tvOk]
+[2023-01-18 09:47:12,373] [INFO] [DESKTOP-VFLN9LM][test_install.py - line:117] PASS		验证成功，进入控制主界面！
+[2023-01-18 09:47:12,375] [INFO] [DESKTOP-VFLN9LM][test_install.py - line:29] 结束初始化
+[2023-01-18 09:47:12,378] [INFO] [DESKTOP-VFLN9LM][conftest.py - line:44] 测试结束，退出测试APP！
+[2023-01-18 09:47:17,511] [INFO] [DESKTOP-VFLN9LM][conftest.py - line:35] 测试开始！
+[2023-01-18 09:47:17,511] [INFO] [DESKTOP-VFLN9LM][driver.py - line:30] UPK9X20C23001241
+[2023-01-18 09:47:19,186] [INFO] [DESKTOP-VFLN9LM][driver.py - line:35] 连接设备：UPK9X20C23001241
+[2023-01-18 09:47:19,187] [INFO] [DESKTOP-VFLN9LM][conftest.py - line:37] 进入测试APP！
+[2023-01-18 09:47:22,546] [INFO] [DESKTOP-VFLN9LM][test_install.py - line:26] 初始化
+[2023-01-18 09:47:22,548] [INFO] [DESKTOP-VFLN9LM][base.py - line:68] 找到【[com.sceneray.dbs:id/et_pwd】 查找元素并输入【123456】
+[2023-01-18 09:47:25,550] [INFO] [DESKTOP-VFLN9LM][base.py - line:44] 通过 resourceId 查找元素:【com.sceneray.dbs:id/et_pwd】
+[2023-01-18 09:47:25,622] [INFO] [DESKTOP-VFLN9LM][base.py - line:64] 元素已找到
+[2023-01-18 09:47:28,845] [INFO] [DESKTOP-VFLN9LM][base.py - line:44] 通过 resourceId 查找元素:【com.android.systemui:id/back】
+[2023-01-18 09:47:28,951] [INFO] [DESKTOP-VFLN9LM][base.py - line:92] 元素[com.android.systemui:id/back]未找到
+[2023-01-18 09:47:31,960] [INFO] [DESKTOP-VFLN9LM][base.py - line:44] 通过 resourceId 查找元素:【com.huawei.secime:id/keyboard_hide_btn】
+[2023-01-18 09:47:32,017] [INFO] [DESKTOP-VFLN9LM][base.py - line:64] 元素已找到
+[2023-01-18 09:47:32,439] [INFO] [DESKTOP-VFLN9LM][base.py - line:104] 点击元素:[com.huawei.secime:id/keyboard_hide_btn]
+[2023-01-18 09:47:35,451] [INFO] [DESKTOP-VFLN9LM][base.py - line:44] 通过 resourceId 查找元素:【com.sceneray.dbs:id/btn_login】
+[2023-01-18 09:47:35,494] [INFO] [DESKTOP-VFLN9LM][base.py - line:64] 元素已找到
+[2023-01-18 09:47:35,883] [INFO] [DESKTOP-VFLN9LM][base.py - line:104] 点击元素:[com.sceneray.dbs:id/btn_login]
+[2023-01-18 09:47:38,886] [INFO] [DESKTOP-VFLN9LM][base.py - line:44] 通过 resourceId 查找元素:【com.sceneray.dbs:id/img_close】
+[2023-01-18 09:47:38,929] [INFO] [DESKTOP-VFLN9LM][base.py - line:64] 元素已找到
+[2023-01-18 09:47:39,324] [INFO] [DESKTOP-VFLN9LM][base.py - line:104] 点击元素:[com.sceneray.dbs:id/img_close]
+[2023-01-18 09:47:39,324] [INFO] [DESKTOP-VFLN9LM][base.py - line:68] 找到【[com.sceneray.dbs:id/et_pwd】 查找元素并输入【123456】
+[2023-01-18 09:47:42,339] [INFO] [DESKTOP-VFLN9LM][base.py - line:44] 通过 resourceId 查找元素:【com.sceneray.dbs:id/et_pwd】
+[2023-01-18 09:47:42,381] [INFO] [DESKTOP-VFLN9LM][base.py - line:64] 元素已找到
+[2023-01-18 09:47:45,605] [INFO] [DESKTOP-VFLN9LM][base.py - line:44] 通过 resourceId 查找元素:【com.android.systemui:id/back】
+[2023-01-18 09:47:45,648] [INFO] [DESKTOP-VFLN9LM][base.py - line:92] 元素[com.android.systemui:id/back]未找到
+[2023-01-18 09:47:48,658] [INFO] [DESKTOP-VFLN9LM][base.py - line:44] 通过 resourceId 查找元素:【com.huawei.secime:id/keyboard_hide_btn】
+[2023-01-18 09:47:48,707] [INFO] [DESKTOP-VFLN9LM][base.py - line:64] 元素已找到
+[2023-01-18 09:47:49,127] [INFO] [DESKTOP-VFLN9LM][base.py - line:104] 点击元素:[com.huawei.secime:id/keyboard_hide_btn]
+[2023-01-18 09:47:52,130] [INFO] [DESKTOP-VFLN9LM][base.py - line:44] 通过 resourceId 查找元素:【com.sceneray.dbs:id/btn_login】
+[2023-01-18 09:47:52,173] [INFO] [DESKTOP-VFLN9LM][base.py - line:64] 元素已找到
+[2023-01-18 09:47:52,546] [INFO] [DESKTOP-VFLN9LM][base.py - line:104] 点击元素:[com.sceneray.dbs:id/btn_login]
+[2023-01-18 09:47:55,555] [INFO] [DESKTOP-VFLN9LM][base.py - line:44] 通过 resourceId 查找元素:【com.sceneray.dbs:id/img_close】
+[2023-01-18 09:47:55,605] [INFO] [DESKTOP-VFLN9LM][base.py - line:64] 元素已找到
+[2023-01-18 09:47:55,995] [INFO] [DESKTOP-VFLN9LM][base.py - line:104] 点击元素:[com.sceneray.dbs:id/img_close]
+[2023-01-18 09:47:55,996] [INFO] [DESKTOP-VFLN9LM][base.py - line:68] 找到【[com.sceneray.dbs:id/et_pwd】 查找元素并输入【123456】
+[2023-01-18 09:47:59,011] [INFO] [DESKTOP-VFLN9LM][base.py - line:44] 通过 resourceId 查找元素:【com.sceneray.dbs:id/et_pwd】
+[2023-01-18 09:47:59,052] [INFO] [DESKTOP-VFLN9LM][base.py - line:64] 元素已找到
+[2023-01-18 09:48:02,257] [INFO] [DESKTOP-VFLN9LM][base.py - line:44] 通过 resourceId 查找元素:【com.android.systemui:id/back】
+[2023-01-18 09:48:02,305] [INFO] [DESKTOP-VFLN9LM][base.py - line:92] 元素[com.android.systemui:id/back]未找到
+[2023-01-18 09:48:05,316] [INFO] [DESKTOP-VFLN9LM][base.py - line:44] 通过 resourceId 查找元素:【com.huawei.secime:id/keyboard_hide_btn】
+[2023-01-18 09:48:05,366] [INFO] [DESKTOP-VFLN9LM][base.py - line:64] 元素已找到
+[2023-01-18 09:48:05,778] [INFO] [DESKTOP-VFLN9LM][base.py - line:104] 点击元素:[com.huawei.secime:id/keyboard_hide_btn]
+[2023-01-18 09:48:08,791] [INFO] [DESKTOP-VFLN9LM][base.py - line:44] 通过 resourceId 查找元素:【com.sceneray.dbs:id/btn_login】
+[2023-01-18 09:48:08,827] [INFO] [DESKTOP-VFLN9LM][base.py - line:64] 元素已找到
+[2023-01-18 09:48:09,207] [INFO] [DESKTOP-VFLN9LM][base.py - line:104] 点击元素:[com.sceneray.dbs:id/btn_login]
+[2023-01-18 09:48:11,316] [INFO] [DESKTOP-VFLN9LM][test_install.py - line:149] PASS		退出测试APP成功！
+[2023-01-18 09:48:11,318] [INFO] [DESKTOP-VFLN9LM][test_install.py - line:29] 结束初始化
+[2023-01-18 09:48:11,323] [INFO] [DESKTOP-VFLN9LM][conftest.py - line:44] 测试结束，退出测试APP！
+[2023-01-18 09:48:11,422] [INFO] [DESKTOP-VFLN9LM][conftest.py - line:35] 测试开始！
+[2023-01-18 09:48:11,423] [INFO] [DESKTOP-VFLN9LM][driver.py - line:30] UPK9X20C23001241
+[2023-01-18 09:48:13,078] [INFO] [DESKTOP-VFLN9LM][driver.py - line:35] 连接设备：UPK9X20C23001241
+[2023-01-18 09:48:13,078] [INFO] [DESKTOP-VFLN9LM][conftest.py - line:37] 进入测试APP！
+[2023-01-18 09:48:16,450] [INFO] [DESKTOP-VFLN9LM][test_install.py - line:26] 初始化
+[2023-01-18 09:48:16,452] [INFO] [DESKTOP-VFLN9LM][base.py - line:68] 找到【[com.sceneray.dbs:id/et_pwd】 查找元素并输入【sr@123456】
+[2023-01-18 09:48:19,454] [INFO] [DESKTOP-VFLN9LM][base.py - line:44] 通过 resourceId 查找元素:【com.sceneray.dbs:id/et_pwd】
+[2023-01-18 09:48:19,497] [INFO] [DESKTOP-VFLN9LM][base.py - line:64] 元素已找到
+[2023-01-18 09:48:22,684] [INFO] [DESKTOP-VFLN9LM][base.py - line:44] 通过 resourceId 查找元素:【com.android.systemui:id/back】
+[2023-01-18 09:48:22,731] [INFO] [DESKTOP-VFLN9LM][base.py - line:92] 元素[com.android.systemui:id/back]未找到
+[2023-01-18 09:48:25,737] [INFO] [DESKTOP-VFLN9LM][base.py - line:44] 通过 resourceId 查找元素:【com.huawei.secime:id/keyboard_hide_btn】
+[2023-01-18 09:48:25,782] [INFO] [DESKTOP-VFLN9LM][base.py - line:64] 元素已找到
+[2023-01-18 09:48:26,214] [INFO] [DESKTOP-VFLN9LM][base.py - line:104] 点击元素:[com.huawei.secime:id/keyboard_hide_btn]
+[2023-01-18 09:48:29,230] [INFO] [DESKTOP-VFLN9LM][base.py - line:44] 通过 resourceId 查找元素:【com.sceneray.dbs:id/tvRememberPassword】
+[2023-01-18 09:48:29,275] [INFO] [DESKTOP-VFLN9LM][base.py - line:64] 元素已找到
+[2023-01-18 09:48:29,679] [INFO] [DESKTOP-VFLN9LM][base.py - line:104] 点击元素:[com.sceneray.dbs:id/tvRememberPassword]
+[2023-01-18 09:48:32,687] [INFO] [DESKTOP-VFLN9LM][base.py - line:44] 通过 resourceId 查找元素:【com.sceneray.dbs:id/btn_login】
+[2023-01-18 09:48:32,728] [INFO] [DESKTOP-VFLN9LM][base.py - line:64] 元素已找到
+[2023-01-18 09:48:33,125] [INFO] [DESKTOP-VFLN9LM][base.py - line:104] 点击元素:[com.sceneray.dbs:id/btn_login]
+[2023-01-18 09:48:34,275] [INFO] [DESKTOP-VFLN9LM][test_install.py - line:164] PASS		验证成功，进入控制主界面！
+[2023-01-18 09:48:34,278] [INFO] [DESKTOP-VFLN9LM][test_install.py - line:29] 结束初始化
+[2023-01-18 09:48:34,281] [INFO] [DESKTOP-VFLN9LM][conftest.py - line:44] 测试结束，退出测试APP！
+[2023-01-18 09:48:40,575] [INFO] [DESKTOP-VFLN9LM][run.py - line:25] 报告地址:E:\PycharmProjects\AutoTest/reports/index.html
